@@ -51,8 +51,8 @@ class Userbot(Client):
         if config.STRING1:
             await self.one.start()
             try:
-                await self.one.join_chat("BRANDED_WORLD")
-                await self.one.join_chat("BRANDRD_BOT")
+                await self.one.join_chat("mamaklidili")
+                await self.one.join_chat("mamaklidestek")
             except:
                 pass
             assistants.append(1)
