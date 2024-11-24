@@ -69,13 +69,13 @@ def stream_markup_timer(_, chat_id, played, dur):
         ],
       [
             InlineKeyboardButton(
-                text="ᴏᴡɴᴇʀ", url="https://t.me/BRANDEDKING8",
+                text="ѕαнιρ", url="https://t.me/yoodelidegilim",
             ),
             InlineKeyboardButton(
-                text="sᴜᴩᴩᴏʀᴛ", url="https://t.me/BRANDED_WORLD",
+                text="кαηαℓ", url="https://t.me/mamaklidili",
             )
         ],
-         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
+         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="кαραт")],
     ]
     return buttons
 
@@ -91,13 +91,13 @@ def stream_markup(_, chat_id):
          ],
         [
             InlineKeyboardButton(
-                text="ᴏᴡɴᴇʀ", url="https://t.me/BRANDEDKING8",
+                text="ѕαнιρ", url="https://t.me/yoodelidegilim",
             ),
             InlineKeyboardButton(
-                text="sᴜᴩᴩᴏʀᴛ", url="https://t.me/BRANDED_WORLD",
+                text="кαηαℓ", url="https://t.me/mamaklidili",
             )
         ],
-        [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
+        [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="кαραт")],
     ]
     return buttons
 
